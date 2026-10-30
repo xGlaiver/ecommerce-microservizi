@@ -1,0 +1,5 @@
+# Ogni servizio ha il suo .gitignore; qui solo file di sistema ed editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
